@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/suthatta-resume/static/css/main.d1b05096.chunk.css",
+    "main.js": "/suthatta-resume/static/js/main.1be1e147.chunk.js",
+    "main.js.map": "/suthatta-resume/static/js/main.1be1e147.chunk.js.map",
+    "runtime-main.js": "/suthatta-resume/static/js/runtime-main.48c4fac6.js",
+    "runtime-main.js.map": "/suthatta-resume/static/js/runtime-main.48c4fac6.js.map",
+    "static/js/2.3ddef034.chunk.js": "/suthatta-resume/static/js/2.3ddef034.chunk.js",
+    "static/js/2.3ddef034.chunk.js.map": "/suthatta-resume/static/js/2.3ddef034.chunk.js.map",
+    "index.html": "/suthatta-resume/index.html",
+    "precache-manifest.7f9adb4213d5379ceebd9eb1fa9b0fbb.js": "/suthatta-resume/precache-manifest.7f9adb4213d5379ceebd9eb1fa9b0fbb.js",
+    "service-worker.js": "/suthatta-resume/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/suthatta-resume/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3ddef034.chunk.js.LICENSE": "/suthatta-resume/static/js/2.3ddef034.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48c4fac6.js",
+    "static/js/2.3ddef034.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1be1e147.chunk.js"
+  ]
+}
